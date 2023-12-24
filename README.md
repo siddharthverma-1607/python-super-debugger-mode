@@ -28,7 +28,7 @@ To start using the extension:
 
 ## Contributing
 
-Contributions to **Python Super Debugger Mode** are welcome! Whether it's bug reports, feature requests, or code contributions, your input is valuable. Please feel free to open an issue or submit a pull request on our [GitHub repository](#).
+Contributions to **Python Super Debugger Mode** are welcome! Whether it's bug reports, feature requests, or code contributions, your input is valuable. Please feel free to open an issue or submit a pull request on our [GitHub repository](https://github.com/siddharthverma-1607/python-super-debugger-mode).
 
 ## Author
 
@@ -36,7 +36,7 @@ Contributions to **Python Super Debugger Mode** are welcome! Whether it's bug re
 
 ## License
 
-This extension is released under the [MIT License](LICENSE).
+This extension is released under the [MIT License](https://github.com/siddharthverma-1607/python-super-debugger-mode/blob/main/LICENSE.md).
 
 ---
 
