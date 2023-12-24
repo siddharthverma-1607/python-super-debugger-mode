@@ -2,14 +2,33 @@
   "name": "python-super-debugger-mode",
   "displayName": "Python Super Debugger Mode",
   "description": "A python extension to debug and trace your scripts or module by injecting print statements whenever an assignment operator is used for update. You see the value update in the flow! Its traditional.",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "Siddharth Verma",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siddharthverma-1607/python-super-debugger-mode"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
-    "Other"
+    "Debuggers",
+    "Programming Languages",
+    "Snippets",
+    "Formatters"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onLanguage:python"
+  ],
+  "keywords": [
+    "python",
+    "debug",
+    "print",
+    "trace",
+    "debugger"
+  ],
+  "license": "MIT",
+  "icon": "src/docs/python-super-debbuger-mode.png",
   "main": "./out/extension.js",
   "contributes": {
     "commands": [

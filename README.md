@@ -1,4 +1,4 @@
-# Python Super Debugger Mode
+# Python Super Debugger Mode <img src="src/docs/python-super-debbuger-mode.png" align="left" height="50" />
 
 Welcome to **Python Super Debugger Mode**, a Visual Studio Code extension designed to enhance your Python debugging experience. This extension provides advanced features for debugging Python code, making it easier to track variable changes, understand code flow, and quickly identify issues.
 
