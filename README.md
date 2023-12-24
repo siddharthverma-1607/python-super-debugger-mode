@@ -4,6 +4,13 @@ Welcome to **Python Super Debugger Mode**, a Visual Studio Code extension design
 
 ![Python Super Debugger Mode in Action](src/docs/python-super-debugger-mode.gif)
 
+## Usage
+
+To start using the extension:
+
+- **Add Print Statements**: Place your cursor in a Python file and use the command "Add Print Statements to current script" to automatically insert print statements.
+- **Remove Print Statements**: Clean up your code by using the command "Remove Print Statements" to remove all inserted print statements.
+
 ## Features
 
 - **Automatic Print Statement Insertion**: Effortlessly add print statements to your Python code to track variable values and function calls.
@@ -18,13 +25,6 @@ You can install the **Python Super Debugger Mode** extension directly from the V
 2. Navigate to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
 3. Search for "Python Super Debugger Mode".
 4. Click on the Install button.
-
-## Usage
-
-To start using the extension:
-
-- **Add Print Statements**: Place your cursor in a Python file and use the command "Add Print Statements to current script" to automatically insert print statements.
-- **Remove Print Statements**: Clean up your code by using the command "Remove Print Statements" to remove all inserted print statements.
 
 ## Contributing
 
